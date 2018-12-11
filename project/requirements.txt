@@ -6,3 +6,5 @@ jupyter
 sklearn
 nltk
 gensim
+tensorflow
+keras
